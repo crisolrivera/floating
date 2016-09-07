@@ -1,0 +1,25 @@
+.conteiner{
+	width: 1000px;
+	height: 450px;
+	border: 2px #7a7a52 solid;
+	margin-left: 20px;
+	margin-top: 20px;ß
+
+}
+.interior1{
+	width:200px;
+	height: 150px;
+	background: #ffff4d;
+
+}
+.interior2{
+	width:200px;
+	height: 150px;
+	background: #0059b3;
+
+}
+.interior3{
+	width:200px;
+	height: 150px;
+	background: #cc0052; 
+}
